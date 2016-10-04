@@ -313,6 +313,7 @@
 				E23F4A961DA3E222000CE975 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
