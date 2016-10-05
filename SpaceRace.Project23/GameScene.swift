@@ -41,6 +41,11 @@ class GameScene: SKScene {
         scoreLabel.position = CGPoint(x: 16, y: 16)
         scoreLabel.horizontalAlignmentMode = .left
         addChild(scoreLabel)
+        
+        score = 0
+        
+        physicsWorld.gravity = CGVector(dx: 0, dy: 0)
+        physicsWorld.contactDelegate = self
     }
 }
 
