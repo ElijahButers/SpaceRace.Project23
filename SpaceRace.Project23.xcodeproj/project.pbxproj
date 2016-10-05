@@ -15,6 +15,18 @@
 		E23F4A8B1DA3E222000CE975 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E23F4A891DA3E222000CE975 /* Main.storyboard */; };
 		E23F4A8D1DA3E222000CE975 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E23F4A8C1DA3E222000CE975 /* Assets.xcassets */; };
 		E23F4A901DA3E222000CE975 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E23F4A8E1DA3E222000CE975 /* LaunchScreen.storyboard */; };
+		E2517ACB1DA5129E00A7C2F3 /* ball.png in Resources */ = {isa = PBXBuildFile; fileRef = E2517ABF1DA5129E00A7C2F3 /* ball.png */; };
+		E2517ACC1DA5129E00A7C2F3 /* ball@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E2517AC01DA5129E00A7C2F3 /* ball@2x.png */; };
+		E2517ACD1DA5129E00A7C2F3 /* bigSpark.png in Resources */ = {isa = PBXBuildFile; fileRef = E2517AC11DA5129E00A7C2F3 /* bigSpark.png */; };
+		E2517ACE1DA5129E00A7C2F3 /* explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = E2517AC21DA5129E00A7C2F3 /* explosion.sks */; };
+		E2517ACF1DA5129E00A7C2F3 /* hammer.png in Resources */ = {isa = PBXBuildFile; fileRef = E2517AC31DA5129E00A7C2F3 /* hammer.png */; };
+		E2517AD01DA5129E00A7C2F3 /* hammer@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E2517AC41DA5129E00A7C2F3 /* hammer@2x.png */; };
+		E2517AD11DA5129E00A7C2F3 /* player.png in Resources */ = {isa = PBXBuildFile; fileRef = E2517AC51DA5129E00A7C2F3 /* player.png */; };
+		E2517AD21DA5129E00A7C2F3 /* player@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E2517AC61DA5129E00A7C2F3 /* player@2x.png */; };
+		E2517AD31DA5129E00A7C2F3 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = E2517AC71DA5129E00A7C2F3 /* spark.png */; };
+		E2517AD41DA5129E00A7C2F3 /* Starfield.sks in Resources */ = {isa = PBXBuildFile; fileRef = E2517AC81DA5129E00A7C2F3 /* Starfield.sks */; };
+		E2517AD51DA5129E00A7C2F3 /* tv.png in Resources */ = {isa = PBXBuildFile; fileRef = E2517AC91DA5129E00A7C2F3 /* tv.png */; };
+		E2517AD61DA5129E00A7C2F3 /* tv@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E2517ACA1DA5129E00A7C2F3 /* tv@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +40,18 @@
 		E23F4A8C1DA3E222000CE975 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E23F4A8F1DA3E222000CE975 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E23F4A911DA3E222000CE975 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2517ABF1DA5129E00A7C2F3 /* ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball.png; sourceTree = "<group>"; };
+		E2517AC01DA5129E00A7C2F3 /* ball@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ball@2x.png"; sourceTree = "<group>"; };
+		E2517AC11DA5129E00A7C2F3 /* bigSpark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bigSpark.png; sourceTree = "<group>"; };
+		E2517AC21DA5129E00A7C2F3 /* explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = explosion.sks; sourceTree = "<group>"; };
+		E2517AC31DA5129E00A7C2F3 /* hammer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hammer.png; sourceTree = "<group>"; };
+		E2517AC41DA5129E00A7C2F3 /* hammer@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hammer@2x.png"; sourceTree = "<group>"; };
+		E2517AC51DA5129E00A7C2F3 /* player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player.png; sourceTree = "<group>"; };
+		E2517AC61DA5129E00A7C2F3 /* player@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player@2x.png"; sourceTree = "<group>"; };
+		E2517AC71DA5129E00A7C2F3 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		E2517AC81DA5129E00A7C2F3 /* Starfield.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Starfield.sks; sourceTree = "<group>"; };
+		E2517AC91DA5129E00A7C2F3 /* tv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tv.png; sourceTree = "<group>"; };
+		E2517ACA1DA5129E00A7C2F3 /* tv@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tv@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,11 +90,31 @@
 				E23F4A851DA3E222000CE975 /* GameScene.swift */,
 				E23F4A871DA3E222000CE975 /* GameViewController.swift */,
 				E23F4A891DA3E222000CE975 /* Main.storyboard */,
+				E2517ABE1DA5129E00A7C2F3 /* Content */,
 				E23F4A8C1DA3E222000CE975 /* Assets.xcassets */,
 				E23F4A8E1DA3E222000CE975 /* LaunchScreen.storyboard */,
 				E23F4A911DA3E222000CE975 /* Info.plist */,
 			);
 			path = SpaceRace.Project23;
+			sourceTree = "<group>";
+		};
+		E2517ABE1DA5129E00A7C2F3 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				E2517ABF1DA5129E00A7C2F3 /* ball.png */,
+				E2517AC01DA5129E00A7C2F3 /* ball@2x.png */,
+				E2517AC11DA5129E00A7C2F3 /* bigSpark.png */,
+				E2517AC21DA5129E00A7C2F3 /* explosion.sks */,
+				E2517AC31DA5129E00A7C2F3 /* hammer.png */,
+				E2517AC41DA5129E00A7C2F3 /* hammer@2x.png */,
+				E2517AC51DA5129E00A7C2F3 /* player.png */,
+				E2517AC61DA5129E00A7C2F3 /* player@2x.png */,
+				E2517AC71DA5129E00A7C2F3 /* spark.png */,
+				E2517AC81DA5129E00A7C2F3 /* Starfield.sks */,
+				E2517AC91DA5129E00A7C2F3 /* tv.png */,
+				E2517ACA1DA5129E00A7C2F3 /* tv@2x.png */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -134,9 +178,21 @@
 			files = (
 				E23F4A8B1DA3E222000CE975 /* Main.storyboard in Resources */,
 				E23F4A821DA3E222000CE975 /* GameScene.sks in Resources */,
+				E2517AD11DA5129E00A7C2F3 /* player.png in Resources */,
+				E2517AD51DA5129E00A7C2F3 /* tv.png in Resources */,
+				E2517AD31DA5129E00A7C2F3 /* spark.png in Resources */,
+				E2517ACD1DA5129E00A7C2F3 /* bigSpark.png in Resources */,
+				E2517AD61DA5129E00A7C2F3 /* tv@2x.png in Resources */,
+				E2517ACE1DA5129E00A7C2F3 /* explosion.sks in Resources */,
+				E2517ACB1DA5129E00A7C2F3 /* ball.png in Resources */,
 				E23F4A8D1DA3E222000CE975 /* Assets.xcassets in Resources */,
 				E23F4A901DA3E222000CE975 /* LaunchScreen.storyboard in Resources */,
+				E2517ACF1DA5129E00A7C2F3 /* hammer.png in Resources */,
+				E2517AD01DA5129E00A7C2F3 /* hammer@2x.png in Resources */,
 				E23F4A841DA3E222000CE975 /* Actions.sks in Resources */,
+				E2517AD41DA5129E00A7C2F3 /* Starfield.sks in Resources */,
+				E2517AD21DA5129E00A7C2F3 /* player@2x.png in Resources */,
+				E2517ACC1DA5129E00A7C2F3 /* ball@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
