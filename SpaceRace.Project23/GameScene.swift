@@ -50,6 +50,12 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         physicsWorld.gravity = CGVector(dx: 0, dy: 0)
         physicsWorld.contactDelegate = self
     }
+    
+    func createEnemy() {
+        
+        possibleEnemies = GKRandomSource.sharedRandom().arrayByShufflingObjects(in: possibleEnemies) as! [String]
+        let randomDistriction = GKRandomDistribution(lowestValue: 50, highestValue: 736)
+    }
 }
 
 
