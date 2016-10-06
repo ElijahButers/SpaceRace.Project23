@@ -69,8 +69,21 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         sprite.physicsBody?.linearDamping = 0
         sprite.physicsBody?.angularDamping = 0
     }
+    
+    override func update(_ currentTime: TimeInterval) {
+        
+        for node in children {
+            if node.position.x < -300 {
+                node.removeFromParent()
+            }
+        }
+    
+    if !isGameOver {
+        score += 1
+    }
 }
-
+    
+}
 
 
 
